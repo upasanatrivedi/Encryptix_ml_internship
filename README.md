@@ -1,1 +1,1 @@
-# Encryptix_ml_internship
+# ML projects
